@@ -11,5 +11,5 @@ It looks like those files works just on IE Edge.
 * Firefox don't tell me what's wrong.
 
 # Demo
-  From CodePen works on any browser.
+  But from CodePen works on any browser.
 * [CodePen](https://codepen.io/cristianexer/pen/OvEBVp) - @cristianexer
